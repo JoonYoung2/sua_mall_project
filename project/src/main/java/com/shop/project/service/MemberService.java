@@ -13,8 +13,11 @@ public class MemberService {
 
 	public void insert(MemberDTO dto) {
 		repo.insert(dto);
+
+	}
+
+	public void test() {
 		
 	}
-	
-	
+
 }
