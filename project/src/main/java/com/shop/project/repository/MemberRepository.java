@@ -7,5 +7,5 @@ import com.shop.project.dto.MemberDTO;
 
 @Mapper
 public interface MemberRepository {
-	public void insert(MemberDTO dto);
+	
 }
