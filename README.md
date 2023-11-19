@@ -1,2 +1,2 @@
 # sua_mall_project
-Sua Shopping Mall Project
+쇼핑몰 개발 개인 프로젝트
